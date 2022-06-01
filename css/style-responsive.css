@@ -103,6 +103,31 @@ h1 {
   padding-right:10px;
   text-align:center;
 }
+.IASG{
+      color: #ffffff;
+      margin-left: 14%;
+      font-size: 47px;
+      height: 10%;
+}
+
+.botonn{
+  background-color: #ffff;
+  margin-left: 79%%;
+}
+.body2{
+  background-size: cover;
+  /* background-repeat:no-repeat; */
+  background-position: center center;
+}
+
+.iasg3{
+  margin-left: 5%;
+}
+
+.iasg{
+  margin-left: 5%;
+}
+
 
 }
 
@@ -205,6 +230,7 @@ h1 {
 .footer .margin .menu-footer{
   width:320px;
 }
+
 
 }
 
